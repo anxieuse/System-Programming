@@ -37,8 +37,7 @@
              (cc amount KINDS-OF-COINS)
             )
             (
-                (let()(display "Improper parameter value!\ncount-change= ")
-                (display "-1"))
+                else(display "Improper parameter value!\ncount-change= ")-1
             )
         )
     )
